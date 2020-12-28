@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<anarchist-village>\/main.json#entry_chaos_amsterdam"
+                 "value":"{<anarchist-village>\/main.json#entry_chaos_amsterdam}"
                 }],
          "type":"tilelayer",
          "visible":true,
