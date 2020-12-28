@@ -77,7 +77,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"Fireplace-SoundBible_com-cc0.mp3"
                 }],
@@ -221,7 +221,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"Nature-Ambiance-SoundBible-cc0.mp3"
                 }],
