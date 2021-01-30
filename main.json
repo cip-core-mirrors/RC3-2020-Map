@@ -381,12 +381,6 @@
          "id":22,
          "name":"exit_komona",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<komona>\/main.json}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -399,12 +393,6 @@
          "id":10,
          "name":"exit_anarchist",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<anarchist-village>\/main.json#entry_chaos_amsterdam}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -453,12 +441,6 @@
          "id":12,
          "name":"exit_cocoWorld",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

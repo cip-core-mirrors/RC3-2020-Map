@@ -183,12 +183,6 @@
          "id":15,
          "name":"exit basement",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -201,12 +195,6 @@
          "id":22,
          "name":"exit_moin",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<moin>\/sewers\/main.json#trapdoor}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -219,12 +207,6 @@
          "id":12,
          "name":"exit_2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaos-amsterdam}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
