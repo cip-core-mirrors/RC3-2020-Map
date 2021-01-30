@@ -273,12 +273,6 @@
          "id":36,
          "name":"exitToiletParty",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json#start-chaos-amsterdam}"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
