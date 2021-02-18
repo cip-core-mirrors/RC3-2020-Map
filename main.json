@@ -379,7 +379,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"_\/global\/maps.social.techinc.nl\/space\/map.json#fromChaos"
+                 "value":"\/_\/global\/maps.social.techinc.nl\/space\/map.json#fromChaos"
                 }],
          "type":"tilelayer",
          "visible":true,
