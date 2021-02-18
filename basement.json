@@ -195,6 +195,12 @@
          "id":22,
          "name":"exit_moin",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"https:\/\/chaos.amsterdam\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
