@@ -54,6 +54,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"water_down_drain_cc0.mp3"
                 }],
@@ -269,6 +274,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Skrjabin Etude_Op2_No1.mp3"
                 }],
@@ -305,6 +315,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Water-Lisa_Redfern-cc0.mp3"
                 }],
