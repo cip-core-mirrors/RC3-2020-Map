@@ -3269,7 +3269,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"unknown"
+                 "value":"CCC"
                 }],
          "spacing":0,
          "tilecount":1024,
