@@ -406,6 +406,12 @@
          "id":10,
          "name":"exit_anarchist",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/anarchist-village\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
