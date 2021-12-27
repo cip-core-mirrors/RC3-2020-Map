@@ -141,7 +141,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"Traffic_Jam-Yo_Mama-cc0.mp3"
                 }],
@@ -159,7 +159,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"Fireplace-SoundBible_com-cc0.mp3"
                 }],
@@ -351,7 +351,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"Nature-Ambiance-SoundBible-cc0.mp3"
                 }],
@@ -411,7 +411,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"basement.json"
                 }],
@@ -429,7 +429,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"basement.json#busstop_entry"
                 }],
