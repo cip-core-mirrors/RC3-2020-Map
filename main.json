@@ -579,6 +579,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -2319,6 +2325,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"tileset_2_rpg_maker_xp_by_mataraelfay_d4hnexf",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1744,
          "tileheight":32,
@@ -2612,6 +2624,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"urban_streets_c_by_schwarzenacht_d8cmhcy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -3093,6 +3111,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCC"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -3132,6 +3156,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"police_car_burning",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Public Domain"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
