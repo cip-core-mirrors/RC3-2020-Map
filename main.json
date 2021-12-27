@@ -445,6 +445,12 @@
          "id":12,
          "name":"exit_cocoWorld",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/punchcard.json#start_chaosamsterdam"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
