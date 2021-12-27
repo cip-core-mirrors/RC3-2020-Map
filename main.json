@@ -416,7 +416,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/anarchist-village\/main.json"
+                 "value":"world:\/\/anarchist-village\/main.json#entry_chaos_amsterdam"
                 }],
          "type":"tilelayer",
          "visible":true,
