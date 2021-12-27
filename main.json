@@ -75,12 +75,6 @@
          "id":31,
          "name":"getbusstop-badge",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"jhJiaQ72ILDOzbMbJ4IrFhlYi1OrM35usebFtYVFHEW955nANW"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -142,6 +136,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Traffic_Jam-Yo_Mama-cc0.mp3"
                 }],
@@ -160,6 +159,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Fireplace-SoundBible_com-cc0.mp3"
                 }],
@@ -352,6 +356,11 @@
          "properties":[
                 {
                  "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Nature-Ambiance-SoundBible-cc0.mp3"
                 }],
