@@ -394,6 +394,12 @@
          "id":22,
          "name":"exit_tardis",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/1komona\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
